@@ -1,4 +1,4 @@
- #Author: James Nicholson
+#Author: James Nicholson
 #Date: 5/31/2018
 #Create a program that asks the user for a number and
 #  then prints out a list of all the divisors of that number. 
