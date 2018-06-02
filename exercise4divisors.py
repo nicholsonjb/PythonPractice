@@ -15,5 +15,5 @@ divisorList = [] #divisor list
 for number in listRange: #Loop to do math
     if num % number == 0:
         divisorList.append(number)
-
+5
 print(divisorList) #prints divisor list
