@@ -1,4 +1,4 @@
- #Author: James Nicholson
+#Author: James Nicholson
 #Date: 5/31/2018
 #Create a program that asks the user for a number and
 #  then prints out a list of all the divisors of that number. 
@@ -15,5 +15,5 @@ divisorList = [] #divisor list
 for number in listRange: #Loop to do math
     if num % number == 0:
         divisorList.append(number)
-
+5
 print(divisorList) #prints divisor list
