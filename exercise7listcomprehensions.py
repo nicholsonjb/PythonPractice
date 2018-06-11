@@ -6,7 +6,7 @@
 import random
 
 a = [] #random numbers list
-b = random.randint(5,15) #random numbers generated
+b = random.randint(5,15) #random list size
 
 
 while len(a) < b: #Loop to generate random list of numbers
