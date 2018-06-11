@@ -9,7 +9,7 @@ a = [] #random numbers list
 b = random.randint(5,15) #random numbers generated
 
 
-while len(a) < b:
+while len(a) < b: #Loop to generate random list of numbers
     a.append(random.randint(1,75))
 
 even_list = [number for number in a if number % 2 == 0]
