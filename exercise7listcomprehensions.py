@@ -6,13 +6,13 @@
 import random
 
 a = [] #random numbers list
-b = random.randint(5,15) #random list size
+b = random.randint(5,15) #random list size from 5 to 15
 
 
-while len(a) < b: #Loop to generate random list of numbers
+while len(a) < b: #Loop to generate random list of numbers from 1 to 75 and poplate a
     a.append(random.randint(1,75))
 
-even_list = [number for number in a if number % 2 == 0]
+even_list = [number for number in a if number % 2 == 0] #even numbers from list
 
-print(a)
-print(even_list)
+print(a) # prints list a
+print(even_list) #prints list b
