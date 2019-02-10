@@ -10,7 +10,7 @@ Scissors beats paper
 Paper beats rock
 '''
 
-
+#New game
 new_game = ""
 
 print('''Please pick one:
