@@ -45,3 +45,5 @@ while new_game != "yes" and new_game != "Yes":
         print('')
     
 new_game = input('Do you want to play another game, yes or no\n')
+
+#End Script
