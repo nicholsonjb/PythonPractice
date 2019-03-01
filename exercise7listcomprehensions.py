@@ -16,3 +16,5 @@ even_list = [number for number in a if number % 2 == 0] #even numbers from list
 
 print(a) # prints list a
 print(even_list) #prints list b
+
+#End Script
