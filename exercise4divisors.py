@@ -17,3 +17,5 @@ for number in listRange: #Loop to do math
         divisorList.append(number)
 5
 print(divisorList) #prints divisor list
+
+#End Script
