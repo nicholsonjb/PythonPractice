@@ -16,3 +16,5 @@ for i in a:
     if i < num:
         new_list.append(i)
 print(new_list)
+
+#End Script
