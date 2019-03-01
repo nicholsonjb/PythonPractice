@@ -12,4 +12,4 @@ if mod > 0:
     print("Number is odd.")
 else:
     print("Number is even") 
-3
+#End Script
